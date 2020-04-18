@@ -1,0 +1,6 @@
+Drupal 8: Events, Services
+
+1: Create a custom service which will returns Current logged in user's email address.
+ 2: Use this service in a custom route to print email address.
+
+Note: user proper Dependency Injection in both Service as well as route Controller

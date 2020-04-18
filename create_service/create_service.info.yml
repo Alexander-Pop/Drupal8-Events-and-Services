@@ -1,0 +1,5 @@
+name: Create Service
+description: Use service to get the email of logged in user
+package: Codelegacy
+type: module
+core: 8.x
